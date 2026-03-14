@@ -136,7 +136,7 @@ animation:shake 0.4s;
 <div class="moon">🌙</div>
 
 <h1>ঈদ মোবারক</h1>
-<h2>কি ভাই ঈদ তো আসলো সালামি দেওয়ার খবর নাই আর কবে দিবেন ? 😾😾</h2>
+<h2>কি ভাই ঈদ তো চলে আসলো সালামি দেওয়ার খবর নাই আর কবে দিবেন ? 😾😾</h2>
 
 <button class="yes" onclick="show()">হ্যাঁ</button>
 <button class="no" onclick="no()">না</button>
